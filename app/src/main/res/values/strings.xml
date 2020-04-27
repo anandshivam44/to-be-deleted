@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Testing Project</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    <string name="page_0_title">Heal Her Soul</string>
+    <string name="page_0_content">Brief discription about what we do. How far we have achieved</string>
+    <string name="page_0_summary">Page 0 Summary Here</string>
+
+    <string name="page_1_title">Page 1 Title Here</string>
+    <string name="page_1_content">Page 1 Content Here</string>
+    <string name="page_1_summary">Page 1 Summary Here</string>
+
+    <string name="page_2_title">Page 2 Title Here</string>
+    <string name="page_2_content">Page 2 content Here</string>
+    <string name="page_2_summary">Page 2 Summary Here</string>
+
+    <string name="page_3_title">Page 3 Title Here</string>
+    <string name="page_3_content">Page 3 content Here</string>
+    <string name="page_3_summary">Page 3 Summary Here</string>
+
+
+    <string name="page_4_title">Permissions Required</string>
+    <string name="page_4_content">Give your app to access location, read otp, etc etc etc etc etc ............</string>
+    <string name="page_4_summary">Page 4 Summary Here</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
